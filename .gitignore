@@ -1,0 +1,27 @@
+# Arquivos compilados
+*.exe
+*.out
+*.o
+*.obj
+
+# Temporários e logs
+*.log
+*.tmp
+*.bak
+*.swp
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Sistema / Windows
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Google Driveg
+.tmp.driveupload/
+*.gdoc
+*.gsheet
+*.gslides
+*.gdisk
