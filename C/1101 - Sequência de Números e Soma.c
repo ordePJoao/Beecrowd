@@ -41,11 +41,5 @@ int main(){
         printf("%d ", memoria[casos][j]);
         printf("Sum=%d", memoria[casos][]);
     }
-
-
-
-
-
-
-
+    
 return 0;}
